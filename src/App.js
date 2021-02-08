@@ -8,6 +8,7 @@ import Error from "./pages/Error";
 // import components
 import Navbar from "./components/Navbar";
 function App() {
+  console.log('Test')
   return (
     <Router>
       <Navbar />
